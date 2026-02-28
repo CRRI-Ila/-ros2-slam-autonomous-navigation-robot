@@ -5,6 +5,9 @@
 
 # Project Overview
 
+<img width="1155" height="963" alt="image" src="https://github.com/user-attachments/assets/beef9ae6-141f-42fd-8364-f808a7ce779e" />
+
+
 This project implements a complete autonomous robotics pipeline using ROS2, Gazebo, Cartographer SLAM, and the Navigation2 (Nav2) stack.
 
 The system allows a mobile robot to:
